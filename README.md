@@ -1,6 +1,6 @@
 # ProductSearch.pw
 
-**These scripts are deprecated. Use https://github.com/runeconnor/PySiteAI instead.**
+## Important: These scripts are deprecated. Use https://github.com/runeconnor/PySiteAI instead.
 
 This is an SEO experiment to see if Google will rank 100% AI-generated websites.
 
